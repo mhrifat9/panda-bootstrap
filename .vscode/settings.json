@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.preferredDarkColorTheme": "Default High Contrast",
+    "typescript.inlayHints.enumMemberValues.enabled": true
+}
